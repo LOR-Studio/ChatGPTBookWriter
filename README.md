@@ -17,7 +17,7 @@ This is a Python application that uses the OpenAI API to generate a book based o
 1. Clone the repository:
     ```sh
     git clone https://github.com/LOR-Studio/ChatGPTBookWriter.git
-    cd book-generator
+    cd ChatGPTBookWriter
     ```
 2. Install the required packages:
     ```sh
@@ -31,7 +31,7 @@ This is a Python application that uses the OpenAI API to generate a book based o
     ```
 2. Run the application:
     ```sh
-    python book_generator.py
+    python BookWriterGPT4.py
     ```
 3. Fill in the fields for book title, author name, description, and select the number of chapters and model.
 4. Click "Generate Book" to start the content generation process.
