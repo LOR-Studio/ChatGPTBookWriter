@@ -1,5 +1,5 @@
 
-# Book Generator Application
+# ChatGPT Book Generator Application
 
 ## Overview
 This is a Python application that uses the OpenAI API to generate a book based on user inputs such as title, author, description, and the number of chapters. The generated content is compiled into a PDF file. The application features a graphical user interface (GUI) built with Tkinter.
@@ -14,7 +14,7 @@ This is a Python application that uses the OpenAI API to generate a book based o
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/book-generator.git
+    git clone https://github.com/LOR-Studio/ChatGPTBookWriter.git
     cd book-generator
     ```
 2. Install the required packages:
