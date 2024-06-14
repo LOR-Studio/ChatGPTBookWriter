@@ -1,6 +1,8 @@
 
 # ChatGPT Book Generator Application
 
+[Imgur](https://i.imgur.com/FLyAJ12.png)
+
 ## Overview
 This is a Python application that uses the OpenAI API to generate a book based on user inputs such as title, author, description, and the number of chapters. The generated content is compiled into a PDF file. The application features a graphical user interface (GUI) built with Tkinter.
 
